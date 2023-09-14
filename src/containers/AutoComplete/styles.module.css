@@ -1,0 +1,40 @@
+.autoCompleteContainer {
+    width: 80vw;
+    margin: auto;
+}
+
+.autoCompleteContainer img {
+    margin-top: 20px;
+}
+
+.autoCompleteContainer input {
+    width: 100%;
+    font-size: 18px;
+    padding: 15px;
+    border-radius: 10px;
+    border: none;
+}
+
+.autoCompleteContainer input.dropdownOpened {
+    border-radius: 10px 10px 0 0;
+}
+
+.autoCompleteContainer input:focus {
+    outline: none;
+}
+
+.noResults {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #a1a1a1;
+}
+
+.errorMessage {
+    font-size: 13px;
+    font-weight: bold;
+    color: #ff007e;
+    margin: 5px 0;
+    text-align: left;
+    padding-left: 15px;
+    text-transform: uppercase;
+}

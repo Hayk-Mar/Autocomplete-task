@@ -1,0 +1,13 @@
+.dropdownContainer {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 15px;
+    background: white;
+    color: black;
+    margin: 0;
+    overflow: hidden;
+    padding: 15px;
+    border-radius: 0 0 10px 10px;
+    border-top: 1px solid silver;
+}

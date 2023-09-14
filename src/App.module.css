@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.appHeader {
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.appHeader h1 {
+  font-size: 30px;
+}

@@ -1,0 +1,17 @@
+.displayWordsLi {
+    box-shadow: 0px 0px 7px #d9d9d9;
+    padding: 5px 8px;
+    font-size: 18px;
+    border-radius: 4px;
+    transition: all ease-out .3s;
+}
+
+.displayWordsLi:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 1px #d9d9d9;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}

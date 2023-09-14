@@ -1,0 +1,1 @@
+export const ALPHABET_REGEXP = /^[A-Za-z]+$/;
